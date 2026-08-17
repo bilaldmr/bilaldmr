@@ -3,7 +3,7 @@ Hi, I'm Bilal Demir
 </h1>
 
 <p align="center">
-Develops web applications with <b>Golang</b>, <b>JavaScript</b>, <b>C#</b>, <b>PHP</b>.
+Develops web applications with <b>Go</b>, <b>JavaScript</b>, <b>C#</b>, <b>PHP</b>.
 </p>
 
 <p  align="center">
