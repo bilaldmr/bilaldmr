@@ -7,7 +7,7 @@ Develops web applications with <b>Go</b>, <b>JavaScript</b>, <b>C#</b>, <b>PHP</
 </p>
 
 <p  align="center">
-<img src="https://komarev.com/ghpvc/?username=enteresanlikk&color=yellow&style=flat-square" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=bilaldmr&color=yellow&style=flat-square" alt="profile views">
 </p>
 
 <div style="clear: both;"></div>
